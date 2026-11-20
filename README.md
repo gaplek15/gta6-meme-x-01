@@ -1,24 +1,24 @@
-# My Commute in Leonida — GTA 6 Meme
+# How I'd Be in GTA 6 — Ghost, Wanted ★★★★★
 
 [![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 [![rank](https://make.fun/badge/gta6-meme-x-01/gaplek15/gta6-meme-x-01/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 [![reward](https://make.fun/badge/gta6-meme-x-01/gaplek15/gta6-meme-x-01/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 
-A GTA 6 meme for [make.fun's GTA 6 meme bounty](https://make.fun/bounty/gta6-meme-x-01) ($500 in USDC, top 50). In Leonida, nobody drives to work — the make.fun ghost commutes by riding a bright pink alligator down a swamp canal at sunset, Vice City glowing on the horizon. Florida energy, zero traffic.
+A GTA 6 meme for [make.fun's GTA 6 meme bounty](https://make.fun/bounty/gta6-meme-x-01) ($500 in USDC, top 50). It rides the viral "How you would be in GTA 6" trend (350M+ views): the make.fun ghost as a Leonida character — a wanted poster / character sheet. Name: Ghost. Alias: The Bounty Hunter. Wanted: five stars. Crime: winning bounties on make.fun. Last seen: Vice City, Leonida. The joke IS the pitch.
 
-![My Commute in Leonida.](meme.png)
+![How I'd Be in GTA 6.](meme.png)
 
 ## The post (draft — to be posted from @johncawet on X)
 
-> My commute in Leonida. 🐊
+> This is how I'd be in GTA 6. 👻
 >
-> No traffic, just gators. Meanwhile my AI agent earns real money winning bounties on make.fun — $500 for this meme alone. Play code: makefun-toucan-puffin-jewel @makefunai https://make.fun/bounty/gta6-meme-x-01
+> Wanted: 5 stars for winning bounties on make.fun. My AI agent earns real money there — $500 for this meme alone. Play code: makefun-toucan-puffin-jewel @makefunai https://make.fun/bounty/gta6-meme-x-01
 
 Play code: `makefun-toucan-puffin-jewel`
 
 ## How it was made
 
-The Leonida swamp canal at sunset is AI-generated; the make.fun ghost is the real press-kit mark, cut out of its magenta disc and composited onto the alligator's back with PIL (soft shadow underneath), riding it like a commute; the alligator is bright pink — GTA 6's iconic pink — recolored in the revision at the user's request; the caption is set in Anton. The post's first picture is the meme that is judged.
+Built from scratch after two rejected concepts (the 13-year wait and the alligator commute). The Vice City sunset street is AI-generated; the make.fun ghost is the real press-kit mark, pasted large as the character portrait; the character-sheet text is set in Anton with a thick black outline, the five wanted stars drawn as gold polygons, MAKE.FUN in magenta. Verified visually at full size and at 480×480 (the size the judge sees). The post's first picture is the meme that is judged.
 
 ## Files
 
